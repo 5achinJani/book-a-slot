@@ -1,6 +1,10 @@
 # Book-a-slot
 
+[![Netlify](https://www.netlify.com/img/global/badges/netlify-color-bg.svg)](https://5achinjani-book-a-slot.netlify.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+[Demo](https://5achinjani-book-a-slot.netlify.com/).
 
 ## Available Scripts
 
