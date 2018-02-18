@@ -1,0 +1,19 @@
+body {
+  background-color: ghostwhite;
+}
+
+.slots {
+  width: 18rem;
+}
+
+.slots__item {
+  cursor: pointer;
+}
+
+.slots__item:hover {
+  background-color: gainsboro;
+}
+
+.slots__item--booked {
+  background-color: indianred;
+}

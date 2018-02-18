@@ -1,0 +1,17 @@
+{
+  "javascript.validate.enable": false,
+  "path-intellisense.mappings": {
+    "src": "${workspaceRoot}/src",
+    "app": "${workspaceRoot}/src/app",
+    "assets": "${workspaceRoot}/src/assets",
+    "components": "${workspaceRoot}/src/components",
+    "containers": "${workspaceRoot}/src/containers",
+    "mock": "${workspaceRoot}/src/mock",
+    "modules": "${workspaceRoot}/src/modules",
+    "pages": "${workspaceRoot}/src/pages",
+    "reducers": "${workspaceRoot}/src/reducers",
+    "services": "${workspaceRoot}/src/services",
+    "styles": "${workspaceRoot}/src/styles",
+    "utilities": "${workspaceRoot}/src/utilities"
+  }
+}
